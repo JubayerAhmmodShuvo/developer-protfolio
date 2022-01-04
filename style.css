@@ -30,6 +30,13 @@ h2{
     color: #fff;
     font-weight: bold;
 }
+p{
+    text-align: justify;
+}
+#ko{
+   margin-right: 10%;
+   margin-bottom: 4%;
+}
 .top-banner{
     background-image: url('images/top-banner.png');
     background-repeat: no-repeat;
