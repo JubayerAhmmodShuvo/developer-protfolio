@@ -22,6 +22,9 @@ h2{
 .half-width img{
     width: 75%;
 }
+#dream{
+ background-color: rgb(226, 206, 206);
+}
 .link-button{
     text-decoration: none;
    background-image:linear-gradient(to right, #e4ae0b, #0e89b9);
